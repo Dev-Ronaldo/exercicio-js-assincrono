@@ -1,2 +1,2 @@
 # js-assincrono
- Exercicios de Javascript assincrono
+ Exercicio de Javascript assincrono do Bootcamp Santander Fullstack
